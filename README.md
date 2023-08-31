@@ -16,6 +16,9 @@ Welcome to my collection of mini Python projects! This repository showcases seve
 - **ToDoList**: Manage your daily tasks efficiently through a simple command-line interface.
    - [🔗 Go to project](./ToDoList)
 
+- **PomodoroClock**: An interactive Pomodoro Timer for your terminal productivity sessions.
+   - [🔗 Go to project](./PomodoroClock)
+
 ## 🛠 Setup
 
 1. Clone this repository:
