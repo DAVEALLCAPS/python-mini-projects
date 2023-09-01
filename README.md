@@ -19,6 +19,9 @@ Welcome to my collection of mini Python projects! This repository showcases seve
 - **PomodoroClock**: An interactive Pomodoro Timer for your terminal productivity sessions.
    - [🔗 Go to project](./PomodoroClock)
 
+- **PythonQuizzer**: A 10 multiple choice question quiz about Python, test you knowledge.
+   - [🔗 Go to project](./PythonQuizzer)
+
 ## 🛠 Setup
 
 1. Clone this repository:
