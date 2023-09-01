@@ -1,0 +1,52 @@
+[
+    {
+        "question": "Which of the following is NOT a valid Python data type?",
+        "options": ["list", "tuple", "array", "dictionary"],
+        "answer": "array"
+    },
+    {
+        "question": "Which statement is used to stop a loop in Python?",
+        "options": ["stop", "break", "exit", "continue"],
+        "answer": "break"
+    },
+    {
+        "question": "What is the output of the following? print('Hello World'[::-1])",
+        "options": ["Hello World", "dlroW olleH", "World Hello", "Error"],
+        "answer": "dlroW olleH"
+    },
+    {
+        "question": "Which of the following is used for comments in Python?",
+        "options": ["//", "/* */", "--", "#"],
+        "answer": "#"
+    },
+    {
+        "question": "What is the correct way to define a function in Python?",
+        "options": ["define function_name():", "function function_name {}", "def function_name():", "function: function_name"],
+        "answer": "def function_name():"
+    },
+    {
+        "question": "How can you generate random numbers in Python?",
+        "options": ["random.generate()", "random.randint()", "rand()", "random()"],
+        "answer": "random.randint()"
+    },
+    {
+        "question": "Which function is used to read user input?",
+        "options": ["input()", "read()", "get()", "fetch()"],
+        "answer": "input()"
+    },
+    {
+        "question": "Which error occurs when you try to use a variable that hasn’t been defined yet?",
+        "options": ["SyntaxError", "TypeError", "ValueError", "NameError"],
+        "answer": "NameError"
+    },
+    {
+        "question": "Which of the following is an invalid variable name?",
+        "options": ["_var", "var_name", "2var", "varName"],
+        "answer": "2var"
+    },
+    {
+        "question": "Which of these is NOT a core data type in Python?",
+        "options": ["Lists", "Dictionary", "Tuples", "Class"],
+        "answer": "Class"
+    }
+]
