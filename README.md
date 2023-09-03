@@ -22,6 +22,9 @@ Welcome to my collection of mini Python projects! This repository showcases seve
 - **PythonQuizzer**: A 10 multiple choice question quiz about Python, test you knowledge.
    - [🔗 Go to project](./PythonQuizzer)
 
+- **WebStatusChecker**: Checks a URLs HTTP status code and stores it in sqlite.
+   - [🔗 Go to project](./WebStatusChecker)
+
 ## 🛠 Setup
 
 1. Clone this repository:
