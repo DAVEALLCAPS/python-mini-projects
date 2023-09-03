@@ -163,3 +163,7 @@ cython_debug/
 TranscriptCleaner/transcript_clean.py
 TranscriptCleaner/transcript.txt
 TranscriptCleaner/cleaned_transcript.txt
+BarkFlaskApp/app.py
+BarkFlaskApp/requirements.txt
+BarkFlaskApp/static/output.wav
+BarkFlaskApp/templates/index.html
