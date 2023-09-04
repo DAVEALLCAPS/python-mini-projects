@@ -25,6 +25,9 @@ Welcome to my collection of mini Python projects! This repository showcases seve
 - **WebStatusChecker**: Checks a URLs HTTP status code and stores it in sqlite.
    - [🔗 Go to project](./WebStatusChecker)
 
+- **MergeImagesToPDF**: Merges a folder of images into a PDF file.
+   - [🔗 Go to project](./MergeImagesToPDF)
+
 ## 🛠 Setup
 
 1. Clone this repository:
