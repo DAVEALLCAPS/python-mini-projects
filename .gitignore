@@ -167,3 +167,4 @@ BarkFlaskApp/app.py
 BarkFlaskApp/requirements.txt
 BarkFlaskApp/static/output.wav
 BarkFlaskApp/templates/index.html
+BarkFlaskApp/improvements.md

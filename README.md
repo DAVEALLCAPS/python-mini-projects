@@ -28,6 +28,9 @@ Welcome to my collection of mini Python projects! This repository showcases seve
 - **MergeImagesToPDF**: Merges a folder of images into a PDF file.
    - [🔗 Go to project](./MergeImagesToPDF)
 
+- **ImageFaceDetection**: OpenCV script to draw boxes around faces in an image.
+   - [🔗 Go to project](./ImageFaceDetection)
+
 ## 🛠 Setup
 
 1. Clone this repository:
