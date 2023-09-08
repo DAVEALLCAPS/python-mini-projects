@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Blog</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f9f9f9;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 2em auto;
+            background-color: #ffffff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+
+        a {
+            color: #007BFF;
+            text-decoration: none;
+            margin-right: 10px;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+
+        h2 {
+            border-bottom: 1px solid #eee;
+            padding-bottom: 10px;
+        }
+
+        .post-meta {
+            color: #888;
+            font-size: 0.9em;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="{{ url_for('new_post') }}">New Post</a>
+        <span>Total posts: {{ posts|length }}</span>
+
+        {% for post in posts %}
+            <h2>{{ post.title }}</h2>
+            <div class="post-meta">
+                Posted on {{ post.date_posted.strftime('%Y-%m-%d %H:%M:%S') }}
+            </div>
+            <p>{{ post.content }}</p>
+        {% endfor %}
+    </div>
+</body>
+</html>
