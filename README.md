@@ -31,6 +31,12 @@ Welcome to my collection of mini Python projects! This repository showcases seve
 - **ImageFaceDetection**: OpenCV script to draw boxes around faces in an image.
    - [🔗 Go to project](./ImageFaceDetection)
 
+- **QuoteScraper**: Gathers inspiring and thought-provoking quotes from [quotes.toscrape.com](http://quotes.toscrape.com/).
+   - [🔗 Go to project](./QuoteScraper)
+
+- **BookstoreScraper**: Fetches and compiles book details from [books.toscrape.com](https://books.toscrape.com/).
+   - [🔗 Go to project](./BookScraper)
+
 ## 🛠 Setup
 
 1. Clone this repository:
