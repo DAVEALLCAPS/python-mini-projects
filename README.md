@@ -37,6 +37,9 @@ Welcome to my collection of mini Python projects! This repository showcases seve
 - **BookstoreScraper**: Fetches and compiles book details from [books.toscrape.com](https://books.toscrape.com/).
    - [🔗 Go to project](./BookScraper)
 
+- **MarkdownEditor**: A straightforward yet powerful editor built exclusively for editing and previewing markdown content.
+   - [🔗 Go to project](./MarkdownEditor)
+
 ## 🛠 Setup
 
 1. Clone this repository:
