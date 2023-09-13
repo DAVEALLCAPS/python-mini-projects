@@ -40,6 +40,9 @@ Welcome to my collection of mini Python projects! This repository showcases seve
 - **MarkdownEditor**: A straightforward yet powerful editor built exclusively for editing and previewing markdown content.
    - [🔗 Go to project](./MarkdownEditor)
 
+- **TextTools**: is a command-line script offering two main utilities: joining lines and removing duplicate lines from a given text file.
+   - [🔗 Go to project](./TextManipulationTools)
+
 ## 🛠 Setup
 
 1. Clone this repository:
