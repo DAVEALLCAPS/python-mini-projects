@@ -1,0 +1,20 @@
+table {
+    font-size: 24px;
+}
+
+table th, table td {
+    padding: 10px 10px;
+    text-align: center;
+}
+
+.date-heading {
+    font-size: 36px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.time-heading {
+    font-size: 36px;
+    text-align: center;
+    margin-top: 20px;
+}

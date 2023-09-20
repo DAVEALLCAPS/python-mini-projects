@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+
+{% block content %}
+<script src="{{ url_for('static', filename='js/clock.js') }}"></script>
+
+<h1 class="date-heading">{{ date }}</h1>
+<h1 class="time-heading" id="liveClock"></h1>
+
+
+<h2>Weather Forecast</h2>
+
+<table>
+    <thead>
+        <tr>
+            <th>Time</th>
+            <th>Temp (°F)</th>
+            <th>Rain (in)</th>
+            <th>Wind (mph)</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for i in range(4) %}
+        <tr>
+            <td>{{ weather['time'][i] }}</td>
+            <td>{{ weather['temperature_2m'][i] }}</td>
+            <td>{{ weather['precipitation'][i]|default(0) }}</td>
+            <td>{{ weather['windspeed_10m'][i] }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+{% endblock %}
