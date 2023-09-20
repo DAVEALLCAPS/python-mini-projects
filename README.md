@@ -43,6 +43,9 @@ Welcome to my collection of mini Python projects! This repository showcases seve
 - **TextTools**: is a command-line script offering two main utilities: joining lines and removing duplicate lines from a given text file.
    - [🔗 Go to project](./TextManipulationTools)
 
+- **MyLibraryDB**: A FastAPI application that manages a library database with CRUD operations for books.
+   - [🔗 Go to project](./MyLibraryDB)
+
 ## 🛠 Setup
 
 1. Clone this repository:

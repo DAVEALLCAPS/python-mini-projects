@@ -170,3 +170,5 @@ BarkFlaskApp/templates/index.html
 BarkFlaskApp/improvements.md
 
 FlaskBlog/migrations
+
+*.db
