@@ -4,47 +4,23 @@ Welcome to my collection of mini Python projects! This repository showcases seve
 
 ## 🌟 Projects Contained
 
-- **DenverWeather**: Fetches weather information for Denver using the OpenWeatherMap API.
-   - [🔗 Go to project](./DenverWeather)
-   
-- **FileOrganizer**: A utility that organizes files in your directory into predefined categories.
-   - [🔗 Go to project](./FileOrganizer)
-   
-- **FireCalculator**: An intuitive calculator that's accessible directly from your command line.
-   - [🔗 Go to project](./FireCalculator)
-
-- **ToDoList**: Manage your daily tasks efficiently through a simple command-line interface.
-   - [🔗 Go to project](./ToDoList)
-
-- **PomodoroClock**: An interactive Pomodoro Timer for your terminal productivity sessions.
-   - [🔗 Go to project](./PomodoroClock)
-
-- **PythonQuizzer**: A 10 multiple choice question quiz about Python, test you knowledge.
-   - [🔗 Go to project](./PythonQuizzer)
-
-- **WebStatusChecker**: Checks a URLs HTTP status code and stores it in sqlite.
-   - [🔗 Go to project](./WebStatusChecker)
-
-- **MergeImagesToPDF**: Merges a folder of images into a PDF file.
-   - [🔗 Go to project](./MergeImagesToPDF)
-
-- **ImageFaceDetection**: OpenCV script to draw boxes around faces in an image.
-   - [🔗 Go to project](./ImageFaceDetection)
-
-- **QuoteScraper**: Gathers inspiring and thought-provoking quotes from [quotes.toscrape.com](http://quotes.toscrape.com/).
-   - [🔗 Go to project](./QuoteScraper)
-
-- **BookstoreScraper**: Fetches and compiles book details from [books.toscrape.com](https://books.toscrape.com/).
-   - [🔗 Go to project](./BookScraper)
-
-- **MarkdownEditor**: A straightforward yet powerful editor built exclusively for editing and previewing markdown content.
-   - [🔗 Go to project](./MarkdownEditor)
-
-- **TextTools**: is a command-line script offering two main utilities: joining lines and removing duplicate lines from a given text file.
-   - [🔗 Go to project](./TextManipulationTools)
-
-- **MyLibraryDB**: A FastAPI application that manages a library database with CRUD operations for books.
-   - [🔗 Go to project](./MyLibraryDB)
+- [BookScraper](./BookScraper): Fetches and compiles book details from books.toscrape.com.
+- [DenverWeather](./DenverWeather): Fetches weather information for Denver using the OpenWeatherMap API.
+- [FileOrganizer](./FileOrganizer): A utility that organizes files in your directory into predefined categories.
+- [FireCalculator](./FireCalculator): An intuitive calculator that's accessible directly from your command line.
+- [FlaskBlog](./FlaskBlog): A simple blog application built with Flask framework.
+- [ImageFaceDetection](./ImageFaceDetection): OpenCV script to draw boxes around faces in an image.
+- [MarkdownEditor](./MarkdownEditor): A straightforward yet powerful editor built exclusively for editing and previewing markdown content.
+- [MergeImagesToPDF](./MergeImagesToPDF): Merges a folder of images into a PDF file.
+- [MyLibraryDB](./MyLibraryDB): A FastAPI application that manages a library database with CRUD operations for books.
+- [PomodoroClock](./PomodoroClock): An interactive Pomodoro Timer for your terminal productivity sessions.
+- [PythonQuizzer](./PythonQuizzer): A 10 multiple choice question quiz about Python, test your knowledge.
+- [QuoteScraper](./QuoteScraper): Gathers inspiring and thought-provoking quotes from quotes.toscrape.com.
+- [TextManipulationTools](./TextManipulationTools): A command-line script offering two main utilities: joining lines and removing duplicate lines from a given text file.
+- [ToDoList](./ToDoList): Manage your daily tasks efficiently through a simple command-line interface.
+- [TTSTerminal](./TTSTerminal): Script that implements Text-To-Speech functionality from the clipboard.
+- [WebStatusChecker](./WebStatusChecker): Checks a URLs HTTP status code and stores it in sqlite.
+- [control_center](./control_center): Initial implementation of a Control Center web application.
 
 ## 🛠 Setup
 
